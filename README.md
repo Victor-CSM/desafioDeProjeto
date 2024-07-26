@@ -1,5 +1,5 @@
 
-# Desafio Dashboard Financeio
+# Desafio Dashboard Financeiro
 
 Repositório criado para o envio do Dashboard em pdf.
 
